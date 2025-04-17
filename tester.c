@@ -8,10 +8,7 @@
     FOR TESTING PURPOSES
 
 
-    Name: Evan Bucholski
-    Student Number: 1226299
-    Due Date: March 7th, 2025
-    Username: ebuchols
+   
 */
 
 
