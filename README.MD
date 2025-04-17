@@ -28,7 +28,7 @@ C compiler (to build libvcparser.so)
 
 Clone the Repository
 
-git clone https://github.com/yourusername/vcard-manager.git
+git clone 
 cd vcard-manager
 
 Build the C Parser Library
