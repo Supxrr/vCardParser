@@ -10,12 +10,7 @@
 #include "VCHelpers.h"
 
 
-/*
-    Name: Evan Bucholski
-    Student Number: 1226299
-    Due Date: March 7th, 2025
-    Username: ebuchols
-*/
+
 
 //GLOBAL ERROR THAT WILL SWITCH TO HANDLE ERRORS
 VCardErrorCode globalError = OK;
