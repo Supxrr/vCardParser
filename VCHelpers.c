@@ -6,9 +6,7 @@
 #include <strings.h>
 
 
-// Evan Bucholski
-// March 7th, 2025
-// 1226299
+
 
 bool parseSingleVCardLine(const char * line, Card * card, bool * foundBegin, bool * foundEnd, bool * doneFlag, bool * foundVersion){
 
