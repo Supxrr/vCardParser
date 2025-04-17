@@ -87,5 +87,3 @@ MySQL/MariaDB – Backend storage
 
 ctypes – Python↔C interoperation
 
-
-### SCREENSHOTS OF THE PROJECT IN ACTION ###
